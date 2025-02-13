@@ -3,7 +3,7 @@
 
 /* layout */
 :root {
-  --primary: #5f9162;
+  --primary: #46acff;
   --error: #e7195a;
 }
 body {
@@ -12,7 +12,7 @@ body {
   font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 header {
-  background: #82c787;
+  background: rgb(125, 188, 240);
 }
 header .container {
   max-width: 1400px;
@@ -23,7 +23,7 @@ header .container {
   justify-content: space-between;
 }
 header a {
-  color: #333;
+  color: #000000;
   text-decoration: none;
 }
 .pages{
